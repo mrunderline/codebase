@@ -1,0 +1,12 @@
+[
+	{
+		"def_name": "main",
+		"var_name": "a",
+		"def_name2": "static"
+	},
+	{
+		"def_name": "main_def",
+		"var_name": "var",
+		"def_name2": "static_def"
+	}
+]
